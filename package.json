@@ -1,0 +1,15 @@
+{
+  "name": "react-native-fab-button",
+  "version": "1.0.1",
+  "description": "This is Testing Button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dev @Shubham",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.71.1"
+  }
+}
